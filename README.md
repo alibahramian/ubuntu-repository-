@@ -101,7 +101,7 @@ Publish the mirror on the Apache server
 
 #replace new ubuntu repository 
 
-#if you want change your current repository or your costumer you can use the script
+#if you want change your current repository or your costumer you can use the ubuntu-replace.sh script
 
 #just replace your domain simply
 
